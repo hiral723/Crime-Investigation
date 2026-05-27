@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Run Crime Investigator",
+            "request": "launch",
+            "mainClass": "crime.CrimeInvestigatorApp",
+            "projectName": "CrimeInvestigator",
+            "console": "internalConsole"
+        }
+    ]
+}
